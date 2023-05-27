@@ -20,15 +20,14 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## This repo
 
-To learn more about Next.js, take a look at the following resources:
+[reference article - 1](https://victorbruce82.medium.com/setting-up-eslint-prettier-and-husky-in-your-nextjs-project-b468fb56331)
+[reference article - 2](https://blog.jarrodwatts.com/nextjs-eslint-prettier-husky)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tools
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[commitlint](https://github.com/conventional-changelog/commitlint)
+[commitizen](https://github.com/commitizen/cz-cli#making-your-repo-commitizen-friendly)
+[eslint in next](https://nextjs.org/docs/app/building-your-application/configuring/eslint#lint-staged)
+[prettier](https://prettier.io/docs/en/precommit.html)
+[husky](https://typicode.github.io/husky/getting-started.html)
+[eslint-config-prettier](https://github.com/prettier/eslint-config-prettier#installation)
