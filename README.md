@@ -18,16 +18,16 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## This repo
-
-[reference article - 1](https://victorbruce82.medium.com/setting-up-eslint-prettier-and-husky-in-your-nextjs-project-b468fb56331)
-[reference article - 2](https://blog.jarrodwatts.com/nextjs-eslint-prettier-husky)
-
 ## Tools
 
 [commitlint](https://github.com/conventional-changelog/commitlint)
+
 [commitizen](https://github.com/commitizen/cz-cli#making-your-repo-commitizen-friendly)
+
 [eslint in next](https://nextjs.org/docs/app/building-your-application/configuring/eslint#lint-staged)
+
 [prettier](https://prettier.io/docs/en/precommit.html)
+
 [husky](https://typicode.github.io/husky/getting-started.html)
+
 [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier#installation)
